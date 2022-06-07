@@ -1,0 +1,1 @@
+C:\Users\Fernando\ Alcalá\OneDrive\Programación\Hard\ Level\Hard\ Level\ Learning\Cursos\RUST\Curso\ Teorico\Ep\ 1\hola_mundo\target\release\hola_mundo.exe: C:\Users\Fernando\ Alcalá\OneDrive\Programación\Hard\ Level\Hard\ Level\ Learning\Cursos\RUST\Curso\ Teorico\Ep\ 1\hola_mundo\src\main.rs

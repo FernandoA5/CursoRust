@@ -1,0 +1,1 @@
+/mnt/c/Users/Fernando\ Alcalá/OneDrive\ -\ uanl.edu.mx/Hard\ Level/Hard\ Level\ Learning/Cursos/RUST/Curso\ Teorico/01\ hola_mundo/target/debug/hola_mundo: /mnt/c/Users/Fernando\ Alcalá/OneDrive\ -\ uanl.edu.mx/Hard\ Level/Hard\ Level\ Learning/Cursos/RUST/Curso\ Teorico/01\ hola_mundo/src/main.rs
