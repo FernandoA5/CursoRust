@@ -1,3 +1,15 @@
 fn main() {
-    println!("Hello, world!");
+    let x = Some("air");
+    println!("{}", x.unwrap());
 }
+
+
+
+
+
+
+
+
+
+
+
