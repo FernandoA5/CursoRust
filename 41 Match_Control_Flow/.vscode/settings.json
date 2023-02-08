@@ -1,0 +1,4 @@
+//JSON DE CONFIGURACION PARA PONER EL TAMAÑO DE LETRA DEL EDITOR EN 18 Puntos
+{
+  "editor.fontSize": 18
+}

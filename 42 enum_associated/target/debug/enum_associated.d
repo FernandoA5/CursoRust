@@ -1,0 +1,1 @@
+/mnt/c/Users/ferna/OneDrive\ -\ Universidad\ Autonoma\ de\ Nuevo\ León/Hard\ Level/Hard\ Level\ Learning/Cursos/RUST/Curso\ Teorico/enum_associated/target/debug/enum_associated: /mnt/c/Users/ferna/OneDrive\ -\ Universidad\ Autonoma\ de\ Nuevo\ León/Hard\ Level/Hard\ Level\ Learning/Cursos/RUST/Curso\ Teorico/enum_associated/src/main.rs
